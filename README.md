@@ -1,20 +1,17 @@
-# CopCoSim_Le_Vargas
-Code to reproduce workflow in Le and Vargas(in review)
-
-
 # Copula-based Cosimulation (CopCoSim)
 
-by Van Huong Le<sup>1</sup>, Rodrigo Vargas<sup>1</sup>
+by Van Huong Le<sup>1</sup>, Rodrigo Vargas<sup>2</sup>
 
 <sup>1</sup>Department of Plant and Soil Sciences, University of Delaware, Newark, DE, 19716, USA
+<sup>2</sup>School of Life Sciences, Arizona State University, Tempe, AZ, USA 
 
 Corresponding author affiliation and e-mail:
 
 Rodrigo Vargas
 
-Department of Plant and Soil Sciences, University of Delaware, Newark, DE, 19716, USA
+chool of Life Sciences, Arizona State University, Tempe, AZ, USA 
 
-[rvargas\@udel.edu](mailto:rvargas@udel.edu)
+[rvargasr\@asu.edu](mailto:rvargasr@asu.edu)
 
 ## Description
 
